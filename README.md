@@ -1,24 +1,15 @@
-## Hi there 👋
 
-<!--
-**rashimarakkar/rashimarakkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 # Rashid TP
 
 
 ## About Me
+Hi, I’m Rashid! I am passionate about creating innovative, high-impact solutions that drive business success in the global software development landscape. Specializing in JavaScript, Node.js, Angular, and MongoDB, I have built and scaled robust applications across diverse industries.
+
+I take pride in maintaining strong relationships with clients, staying in touch and enthusiastically understanding their unique needs to deliver the best solutions. I thrive in dynamic environments and enjoy solving complex challenges.
+
+I speak English, Hindi  and  Malayalam Languages. I regularly pursue further education and aim for continuous development. In the tech industry, it's essential to stay on top of things to keep up with the latest trends and technologies.
+
 - 🖥️ Co-founder&CEO
 - 🏢 CODEAPPAN LLP
 - 🌐 www.codeappan.com
