@@ -10,7 +10,7 @@ I take pride in maintaining strong relationships with clients, staying in touch 
 
 I speak English, Hindi  and  Malayalam Languages. I regularly pursue further education and aim for continuous development. In the tech industry, it's essential to stay on top of things to keep up with the latest trends and technologies.
 
-- 🖥️ Co-founder&CEO
+- 🖥️ Co-founder & CEO
 - 🏢 CODEAPPAN LLP
 - 🌐 www.codeappan.com
 - 📧 rashimarakkar@gmail.com
