@@ -25,9 +25,11 @@ Here are some ideas to get you started:
 - 📧 rashimarakkar@gmail.com
 
 ## Connect With Me
-- https://x.com/Rashimarakkar
-- https://www.linkedin.com/in/rashid-tp-83935282/
-- https://www.instagram.com/rashimarakkar/
+┌───── SOCIAL ─────┐
+├─ [𝕏 Twitter](https://x.com/Rashimarakkar)
+├─ [LinkedIn](https://www.linkedin.com/in/rashid-tp-83935282/)
+├─ [Instagram](https://www.instagram.com/rashimarakkar/)
+└────────────────────
 
 ## Skills and Technologies
-MongoDB,ExpressJs,Angular,NodeJs,NestJs,Typescript,Git,Postman,Javascript,Wordpress
+MongoDB, ExpressJs, Angular, NodeJs, NestJs, Javascript, Typescript, Git, Postman, Wordpress
