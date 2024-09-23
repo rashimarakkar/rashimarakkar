@@ -26,9 +26,15 @@ I speak English, Hindi  and  Malayalam Languages. I regularly pursue further edu
 
 
 ## Skills and Technologies
-- JavaScript
-- React
-- Node.js
-- Python
-- Docker
-- AWS
+- MongoDB
+- Express
+- Angular
+- NodeJs
+- NestJs
+- Javascript
+- Typescript
+- Wordpress
+- Postman
+- Git
+- AWS | Google Cloud (GCP) 
+
