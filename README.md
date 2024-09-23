@@ -20,14 +20,14 @@ Here are some ideas to get you started:
 
 ## About Me
 - 🖥️ Co-founder&CEO
-- 🏢 [CODEAPPAN LLP]
-- 🌐 [www.codeappan.com]
-- 📧 [rashimarakkar@gmail.com]
+- 🏢 CODEAPPAN LLP
+- 🌐 www.codeappan.com
+- 📧 rashimarakkar@gmail.com
 
 ## Connect With Me
-- [https://x.com/Rashimarakkar]
-- [https://www.linkedin.com/in/rashid-tp-83935282/]
-- [https://www.instagram.com/rashimarakkar/]
+- https://x.com/Rashimarakkar
+- https://www.linkedin.com/in/rashid-tp-83935282/
+- https://www.instagram.com/rashimarakkar/
 
 ## Skills and Technologies
-[MongoDB,ExpressJs,Angular,NodeJs,NestJs,Typescript,Git,Postman,Javascript,Wordpress]
+MongoDB,ExpressJs,Angular,NodeJs,NestJs,Typescript,Git,Postman,Javascript,Wordpress
