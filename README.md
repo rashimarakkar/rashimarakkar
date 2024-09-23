@@ -17,23 +17,9 @@ Here are some ideas to get you started:
 
 # Rashid TP
 
-_______________
- |  ___________  |
- | |           | |
- | |  </>      | |
- | |___________| |
- |    _______    |
- |   |   |   |   |
-/|   |   |   |   |\
-||___|___|___|___||
-|                 |
-| [] [] [] [] [] []|
-| [] [] [] [] [] []|
-| [] [] [] [] [] []|
-\__________________|
 
 ## About Me
-- 🖥️ [Co-founder&CEO]
+- 🖥️ Co-founder&CEO
 - 🏢 [CODEAPPAN LLP]
 - 🌐 [www.codeappan.com]
 - 📧 [rashimarakkar@gmail.com]
