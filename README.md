@@ -1,6 +1,6 @@
 
 
-# Rashid TP
+# Rashid TP - Full Stack Developer
 
 
 ## About Me
