@@ -9,7 +9,20 @@ Hi, I’m Rashid! I am passionate about creating innovative, high-impact solutio
 I take pride in maintaining strong relationships with clients, staying in touch and enthusiastically understanding their unique needs to deliver the best solutions. I thrive in dynamic environments and enjoy solving complex challenges.
 
 I speak English, Hindi  and  Malayalam Languages. I regularly pursue further education and aim for continuous development. In the tech industry, it's essential to stay on top of things to keep up with the latest trends and technologies.
-
+<pre> ``` _______________
+ |  ___________  |
+ | |           | |
+ | |  </>      | |
+ | |___________| |
+ |    _______    |
+ |   |   |   |   |
+/|   |   |   |   |\
+||___|___|___|___||
+|                 |
+| [] [] [] [] [] []|
+| [] [] [] [] [] []|
+| [] [] [] [] [] []|
+\__________________|``` </pre>
 - 🖥️ Co-founder & CEO
 - 🏢 CODEAPPAN LLP
 - 🌐 www.codeappan.com
