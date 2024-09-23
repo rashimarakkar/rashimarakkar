@@ -17,7 +17,20 @@ Here are some ideas to get you started:
 
 # Rashid TP
 
-[ASCII art representing your field or interests]
+_______________
+ |  ___________  |
+ | |           | |
+ | |  </>      | |
+ | |___________| |
+ |    _______    |
+ |   |   |   |   |
+/|   |   |   |   |\
+||___|___|___|___||
+|                 |
+| [] [] [] [] [] []|
+| [] [] [] [] [] []|
+| [] [] [] [] [] []|
+\__________________|
 
 ## About Me
 - 🖥️ [Co-founder&CEO]
