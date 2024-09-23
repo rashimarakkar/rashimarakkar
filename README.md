@@ -10,27 +10,6 @@ I take pride in maintaining strong relationships with clients, staying in touch 
 
 I speak English, Hindi  and  Malayalam Languages. I regularly pursue further education and aim for continuous development. In the tech industry, it's essential to stay on top of things to keep up with the latest trends and technologies.
 
-<pre>
-         _____
-       /     \
-      | () () |
-       \  ^  /
-        |||||
-        |||||
-
-     _______________
-    |               |
-    |   RASHID      |
-    |_______________|
-
-+----------------------------+
-| Full Stack Developer        |
-| Working on NestJS Projects  |
-| Interested in MongoDB Indexes|
-| Reach me at rashid@domain.com|
-+----------------------------+
-
-</pre>
 
 - 🖥️ Co-founder & CEO
 - 🏢 CODEAPPAN LLP
