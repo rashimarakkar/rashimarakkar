@@ -15,18 +15,6 @@ I speak English, Hindi  and  Malayalam Languages. I regularly pursue further edu
 - 🌐 www.codeappan.com
 - 📧 rashimarakkar@gmail.com
 
-     _________
-    | _______ |
-    ||       || 
-    ||       || 
-    ||_______|| 
-    |  ___  o| 
-    |_________|
-
-  /~~~~~~~~~~~\
- /             \
-/_______________\
-
 ## Connect With Me
 
 | SOCIAL |                                                             |
